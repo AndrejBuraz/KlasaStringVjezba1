@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\UsporedbaStringova\bin\Debug\UsporedbaStringova.exe.config
+C:\Users\ucenik\Documents\UsporedbaStringova\bin\Debug\UsporedbaStringova.exe
+C:\Users\ucenik\Documents\UsporedbaStringova\bin\Debug\UsporedbaStringova.pdb
+C:\Users\ucenik\Documents\UsporedbaStringova\obj\Debug\UsporedbaStringova.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\UsporedbaStringova\obj\Debug\UsporedbaStringova.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\UsporedbaStringova\obj\Debug\UsporedbaStringova.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\UsporedbaStringova\obj\Debug\UsporedbaStringova.exe
+C:\Users\ucenik\Documents\UsporedbaStringova\obj\Debug\UsporedbaStringova.pdb
